@@ -1,0 +1,11 @@
+{	"SampleFileName": "Accounts.csv",
+	"NumberofColumns" : 6,
+	"ColName": {
+		"account_id" : "integer",
+		"district_id": "integer",
+		"frequency": "string",
+		"date": "date",
+		"tenure": "integer",
+		"account_loyalty": "integer"
+	}
+}

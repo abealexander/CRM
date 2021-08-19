@@ -1,0 +1,1284 @@
+order_id,account_id,bank_to,account_to,amount,transaction_for
+29404,3,WX,83084338,1135,household payment
+29405,3,CD,24485939,327,Info. not Available
+29406,3,AB,59972357,3539,Insurance payment
+29409,5,GH,37390208,2668,household payment
+29417,12,CD,23010808,297,household payment
+29418,12,KL,63607060,3295,household payment
+29419,13,EF,35443323,2444,household payment
+29422,17,EF,15076423,4032,household payment
+29426,21,YZ,60152441,6276,household payment
+29451,37,QR,71644407,5307.5,loan payment
+29452,37,IJ,29728555,2317,household payment
+29453,37,OP,23782724,2584,Info. not Available
+29454,37,YZ,89609831,97,Insurance payment
+29455,38,QR,79067885,2306.8,loan payment
+29456,38,EF,2692229,6901,household payment
+29457,38,KL,83435654,231,Info. not Available
+29458,38,OP,64685678,228,Insurance payment
+29476,49,CD,83233099,3102,household payment
+29481,52,EF,6008005,560,household payment
+29482,52,QR,85721850,3723,Info. not Available
+29535,85,IJ,65366345,3831,household payment
+29536,85,OP,81823444,1792,leasing
+29564,98,CD,94078754,1569,household payment
+29565,98,WX,95535426,749,household payment
+29578,105,UV,58251345,7348,loan payment
+29591,114,QR,78667527,1590,household payment
+29592,114,MN,90660798,533,household payment
+29597,118,IJ,51605445,2449,household payment
+29601,121,YZ,81156724,794,household payment
+29602,121,UV,93935125,929,Info. not Available
+29603,121,MN,91729092,393,Insurance payment
+29605,124,IJ,11366123,447,household payment
+29606,124,OP,51247948,575,Info. not Available
+29607,124,OP,34663748,971,Insurance payment
+29611,129,IJ,69084489,3417,household payment
+29612,130,IJ,2152455,3969,household payment
+29615,133,OP,90329002,3094,leasing
+29616,133,EF,45379865,4943,household payment
+29617,133,CD,30067122,5123,Info. not Available
+29641,156,QR,93965810,2030,household payment
+29642,157,AB,14697784,3991,household payment
+29644,159,GH,1882386,8694,household payment
+29671,178,OP,16301811,1482,household payment
+29672,178,ST,1946038,505,Info. not Available
+29673,179,UV,16450244,7615,household payment
+29674,179,IJ,47684144,1066,Info. not Available
+29675,179,AB,11941713,378,Insurance payment
+29676,179,OP,39081686,4608,Info. not Available
+29681,185,IJ,14592427,6526,household payment
+29685,189,GH,54808670,4244,household payment
+29686,189,OP,28932172,750,Info. not Available
+29687,189,MN,76972424,360,Insurance payment
+29692,191,YZ,89219265,4420.9,leasing
+29696,195,AB,37868559,6260,household payment
+29712,205,AB,99149345,4297,household payment
+29725,211,IJ,2884138,2394,leasing
+29728,214,EF,26426023,2097,household payment
+29729,215,MN,65896379,2121,household payment
+29743,226,UV,29971635,8928,household payment
+29744,226,GH,39824432,9112,loan payment
+29748,229,ST,55160808,2505,household payment
+29753,232,KL,62672704,3643,household payment
+29764,240,WX,50178039,9621,household payment
+29765,240,OP,22710114,1050,leasing
+29776,246,YZ,8283996,1970,household payment
+29783,250,WX,24246722,3066,household payment
+29791,258,KL,37360865,3737,household payment
+29797,263,WX,73582678,6145,household payment
+29815,276,AB,22070646,4470.5,loan payment
+29816,276,EF,80801391,5212,household payment
+29826,282,GH,6997305,7531,household payment
+29827,282,AB,4248011,802,Info. not Available
+29829,284,EF,34219330,5629,household payment
+29841,291,YZ,46721518,1941.9,leasing
+29842,291,EF,31507086,62,household payment
+29843,291,YZ,27026367,12925,Info. not Available
+29844,292,KL,722319,1986,household payment
+29845,293,QR,11480212,1636,household payment
+29846,293,QR,85708903,845,Info. not Available
+29847,293,EF,34143477,1366,Insurance payment
+29848,294,MN,91239595,5842,household payment
+29849,294,KL,94949411,145,Info. not Available
+29850,294,IJ,58432865,430,Insurance payment
+29851,294,UV,58291846,156,Info. not Available
+29852,295,AB,78368478,6992,household payment
+29859,304,AB,27760046,14367,household payment
+29863,309,UV,74396675,1901,loan payment
+29865,311,CD,93944477,4777,household payment
+29866,311,WX,80353498,371,Info. not Available
+29867,311,GH,47159934,3375,Insurance payment
+29868,311,YZ,37490087,355,Info. not Available
+29869,311,YZ,67794364,422,loan payment
+29874,315,MN,6354302,3509,loan payment
+29883,323,GH,65761726,3025,household payment
+29887,326,MN,44978225,1881,household payment
+29888,326,EF,63815659,1567,household payment
+29891,328,OP,10446250,1287,household payment
+29892,328,GH,3014916,1145,household payment
+29918,349,ST,83005469,4660,household payment
+29919,349,YZ,66345286,3568,loan payment
+29940,364,ST,39232927,2221,household payment
+29950,367,KL,59022962,6384,household payment
+29982,383,EF,90773456,2057,household payment
+29983,384,MN,48816210,2304.1,leasing
+29987,386,CD,39887976,4711,household payment
+30008,398,IJ,60894626,1702,household payment
+30014,402,YZ,77129357,2083,household payment
+30015,402,CD,98438930,2211,Info. not Available
+30019,405,EF,24659914,1339,leasing
+30020,405,MN,56718403,9632,household payment
+30021,405,WX,11276412,1497,Info. not Available
+30022,405,KL,1622963,3579,Insurance payment
+30025,407,WX,90311783,5411,household payment
+30026,407,EF,32662862,14,Info. not Available
+30039,421,YZ,94967096,5571,household payment
+30041,424,WX,64132481,4591,household payment
+30066,442,EF,55799275,7455,loan payment
+30067,442,CD,21739507,5606,household payment
+30068,442,ST,98938321,2068,Info. not Available
+30086,453,QR,23475498,7012,household payment
+30098,464,UV,4756558,3509,household payment
+30105,469,AB,32004195,2672,household payment
+30120,475,UV,33983725,2760,household payment
+30126,480,KL,12772888,4687,household payment
+30127,480,IJ,72983371,827,leasing
+30134,483,GH,70076584,1940,household payment
+30161,502,ST,27518320,2498,household payment
+30172,509,IJ,50397551,6261,loan payment
+30177,512,GH,88834064,9449,household payment
+30196,529,MN,85919022,3344,household payment
+30200,534,KL,26713061,1747,household payment
+30201,534,KL,88319682,713,Info. not Available
+30202,534,OP,71464949,1341,Insurance payment
+30208,537,ST,79339456,1848,household payment
+30220,547,EF,48055100,2273,household payment
+30225,550,GH,71731483,1247,household payment
+30226,550,WX,49558728,349,household payment
+30239,564,YZ,8056086,295,household payment
+30240,564,IJ,56459259,8713,Info. not Available
+30255,578,ST,9104431,5484,household payment
+30256,578,KL,6721955,601,Info. not Available
+30257,578,KL,88757896,17,Insurance payment
+30258,578,CD,84361481,57,Info. not Available
+30259,579,OP,19994384,2771,household payment
+30260,579,CD,61798560,1065,Info. not Available
+30270,589,GH,69257765,5746,household payment
+30271,591,WX,33145171,2788,household payment
+30277,598,IJ,36825537,7781,household payment
+30280,600,UV,6513369,5952,household payment
+30284,605,CD,93390070,6876,household payment
+30285,606,EF,87049013,7140,household payment
+30286,606,GH,57793295,1071,Info. not Available
+30292,611,AB,98749815,2284,household payment
+30294,614,YZ,9777558,1664,household payment
+30306,622,MN,57849115,6255,household payment
+30307,622,MN,53675001,594,Info. not Available
+30308,622,QR,46919482,2568,Insurance payment
+30309,622,GH,23822355,11,Info. not Available
+30331,636,YZ,33446622,3056,household payment
+30336,639,ST,77312248,2046,household payment
+30338,641,WX,41606414,3330,household payment
+30340,644,YZ,15593272,946,household payment
+30341,644,YZ,19007480,1026,Info. not Available
+30342,645,GH,25328028,13466,household payment
+30344,647,UV,41266620,6465,household payment
+30351,653,IJ,52822631,5397,household payment
+30390,673,KL,71669763,4586,household payment
+30398,679,OP,91457056,4049,household payment
+30399,679,KL,27114582,450,Info. not Available
+30400,679,UV,84744864,281,Insurance payment
+30401,680,UV,98674255,4853,household payment
+30404,682,QR,39035719,1477,household payment
+30405,682,CD,62099003,537,Info. not Available
+30428,696,IJ,2534234,1299,household payment
+30429,696,AB,64442080,280,household payment
+30435,703,QR,41043675,2306,household payment
+30438,705,KL,67101108,4161,household payment
+30471,729,AB,49945181,1872,household payment
+30472,729,GH,95585292,114,Info. not Available
+30473,729,MN,56525182,67,Insurance payment
+30477,735,EF,74098461,1389,household payment
+30478,735,IJ,93383478,2187,household payment
+30479,736,GH,78246849,2119,household payment
+30488,745,IJ,29839259,1965,household payment
+30492,749,WX,49041187,4965,household payment
+30493,749,WX,49583470,226,Info. not Available
+30494,749,QR,72902929,51,Insurance payment
+30495,749,UV,44345706,26,Info. not Available
+30498,752,ST,12794679,139,household payment
+30499,752,UV,44654941,5568,Info. not Available
+30503,755,CD,65842372,3889,household payment
+30504,755,UV,18141162,1443,Info. not Available
+30508,760,OP,1005852,3403,household payment
+30509,760,OP,88799416,894,Info. not Available
+30510,760,AB,76297777,909,Insurance payment
+30519,768,KL,50946819,2814,household payment
+30535,777,GH,7662755,6412,loan payment
+30538,782,IJ,82476073,3094,household payment
+30539,782,UV,68542945,2472,Info. not Available
+30540,783,MN,85706555,3242,household payment
+30545,785,MN,34928149,4335.8,loan payment
+30546,785,CD,69687145,7395,household payment
+30557,792,AB,75295537,485,household payment
+30558,792,AB,50819605,1326,Info. not Available
+30559,792,MN,90125488,588,Insurance payment
+30563,794,EF,49722951,1107,household payment
+30564,794,YZ,95150184,907,Info. not Available
+30567,800,ST,70286303,2203,household payment
+30568,800,IJ,79600321,299,Info. not Available
+30569,801,ST,28209829,2565,household payment
+30570,801,MN,60788422,767,Info. not Available
+30581,811,WX,22673315,5171.7,loan payment
+30599,823,CD,43020331,62,household payment
+30600,823,WX,75077736,1515,Info. not Available
+30601,823,AB,51397413,612,Insurance payment
+30609,828,KL,18580800,8852,household payment
+30614,834,CD,48387557,2473,household payment
+30624,843,EF,10746133,955,household payment
+30625,843,WX,32156717,128,Info. not Available
+30626,843,WX,16661399,897,Insurance payment
+30629,845,IJ,33191889,9651,household payment
+30634,850,EF,23098129,14811,household payment
+30638,852,GH,3289789,69,household payment
+30639,852,KL,63201045,2013,Info. not Available
+30653,859,ST,87632876,463,household payment
+30654,859,MN,97751479,855,Info. not Available
+30655,859,AB,76049786,1657,Insurance payment
+30656,859,IJ,37609326,955,Info. not Available
+30663,864,MN,78955989,3699,household payment
+30670,867,EF,96948867,9718,household payment
+30671,867,ST,12128901,2820,Info. not Available
+30672,867,IJ,10908985,405,Insurance payment
+30673,868,ST,6806827,3239,household payment
+30674,868,ST,2121645,3119,Info. not Available
+30677,872,QR,4002279,2762,household payment
+30678,873,CD,22322130,878,household payment
+30679,873,QR,57947230,1540,Info. not Available
+30680,873,YZ,91838556,2211,Insurance payment
+30681,873,UV,38070190,2975,loan payment
+30686,876,OP,8003074,3796,household payment
+30690,879,MN,22161680,2094,household payment
+30708,889,YZ,22207898,1292,household payment
+30709,889,IJ,99116205,1965,household payment
+30732,906,AB,85822999,2240,household payment
+30734,909,ST,43062096,1950,household payment
+30735,910,YZ,11557114,1937,household payment
+30738,912,WX,13603061,2332,household payment
+30749,919,KL,87937092,4850,household payment
+30762,927,AB,99075811,1623,household payment
+30763,927,OP,57618069,5782,Info. not Available
+30773,934,MN,80159562,3236,household payment
+30778,938,AB,33329439,3282,household payment
+30779,938,GH,56959378,371,loan payment
+30793,952,OP,26491993,4946,household payment
+30806,961,ST,58554261,8255,household payment
+30809,966,GH,93294161,2129,household payment
+30812,970,OP,78745192,5260,household payment
+30850,996,KL,40804118,1934,household payment
+30851,997,EF,76536661,1046,household payment
+30852,997,AB,37532264,700,Info. not Available
+30853,997,CD,22804981,688,Insurance payment
+30854,997,CD,66356766,36,Info. not Available
+30884,1015,KL,18432247,3925,household payment
+30898,1024,IJ,50779986,2074,household payment
+30905,1026,IJ,92388706,8099,household payment
+30906,1026,WX,63060033,335,Info. not Available
+30907,1027,ST,91939943,2117,household payment
+30916,1034,EF,54495429,4219,household payment
+30917,1035,CD,68746489,2194,household payment
+30918,1035,YZ,72017597,4942,Info. not Available
+30920,1037,ST,89659267,1062,household payment
+30921,1037,UV,73314934,940,Info. not Available
+30922,1037,EF,22177893,1157,Insurance payment
+30923,1037,CD,38512766,62,Info. not Available
+30930,1043,MN,18801582,6433,household payment
+30937,1049,EF,93252652,1545,household payment
+30938,1049,EF,13402939,954,Info. not Available
+30951,1061,YZ,97285127,3790,household payment
+30953,1064,QR,99262660,2918,household payment
+30955,1068,ST,2958560,4219.5,loan payment
+30956,1068,AB,6389087,4737,household payment
+30957,1068,YZ,29813301,3273,Info. not Available
+30958,1068,CD,73765313,632,Insurance payment
+30962,1072,OP,47369968,3520,household payment
+30980,1085,MN,39862310,8537,household payment
+30993,1095,MN,98788070,1119,household payment
+30994,1095,KL,77274346,3773,Info. not Available
+30995,1095,AB,69525956,896,Insurance payment
+30996,1095,EF,92616253,1787,Info. not Available
+30997,1096,MN,24721879,3488,household payment
+31012,1101,ST,64489167,7553,household payment
+31021,1110,CD,84862774,5427,household payment
+31041,1125,YZ,68780326,7895,loan payment
+31042,1125,ST,79252308,11827,household payment
+31043,1125,UV,34524190,238,Info. not Available
+31044,1125,YZ,64038717,1,Insurance payment
+31050,1130,QR,6974792,2241,household payment
+31067,1140,YZ,74234366,2790,household payment
+31068,1141,OP,42710840,1028,household payment
+31069,1141,QR,31942546,907,Info. not Available
+31070,1141,IJ,44392269,248,Insurance payment
+31085,1154,IJ,42328703,3475,household payment
+31096,1165,CD,13145977,8270,household payment
+31110,1171,AB,8577967,7893,household payment
+31120,1177,YZ,63586568,541,household payment
+31121,1177,IJ,89210205,3499,Info. not Available
+31122,1177,OP,30046618,6306,loan payment
+31123,1178,GH,17762130,5639,household payment
+31125,1181,OP,84730392,3418,household payment
+31126,1181,WX,99466686,329,Info. not Available
+31127,1181,YZ,73321759,123,Insurance payment
+31128,1182,UV,22986358,1662.7,leasing
+31131,1185,KL,67108410,2581,household payment
+31132,1185,ST,46177363,249,household payment
+31148,1199,IJ,97586124,1948,household payment
+31149,1199,UV,49255633,762,Info. not Available
+31169,1208,ST,82192122,4426,household payment
+31170,1208,IJ,36384171,2126,Info. not Available
+31171,1209,AB,9581202,3568,household payment
+31177,1214,EF,29751098,4469,household payment
+31178,1215,QR,60905134,2508,household payment
+31185,1221,QR,20722085,3213.4,leasing
+31200,1229,UV,85866784,5505,household payment
+31201,1230,IJ,91985517,3213.4,leasing
+31210,1240,MN,14062285,4353,household payment
+31224,1245,IJ,42008179,3611,household payment
+31236,1253,OP,64931833,3865,household payment
+31237,1253,WX,10639518,5330,Info. not Available
+31238,1255,GH,13613921,4598,loan payment
+31245,1259,IJ,29708302,724,household payment
+31246,1259,MN,46119725,2108,Info. not Available
+31247,1259,EF,47106474,464,Insurance payment
+31248,1259,WX,87490993,1429,loan payment
+31251,1262,EF,16308558,2821,household payment
+31252,1264,YZ,35251403,6605,household payment
+31276,1279,QR,61846792,3587,household payment
+31282,1284,AB,29951918,4375.5,loan payment
+31309,1303,IJ,57378178,3601,household payment
+31328,1318,ST,77757256,5154,loan payment
+31329,1318,AB,10788429,8677,household payment
+31330,1318,AB,50830727,1762,Info. not Available
+31331,1318,MN,13490295,2015,Insurance payment
+31332,1318,AB,44717049,744,Info. not Available
+31333,1319,IJ,20581275,6185,household payment
+31334,1319,YZ,35347509,884,Info. not Available
+31335,1319,EF,91518568,1362,Insurance payment
+31340,1321,EF,33750575,2683,household payment
+31341,1321,CD,3041947,636,leasing
+31364,1336,CD,63792580,9426,household payment
+31369,1340,KL,25240075,818,household payment
+31370,1340,CD,67103540,472,Info. not Available
+31371,1340,GH,64112800,1120,Insurance payment
+31373,1342,YZ,42622768,1079,leasing
+31374,1342,EF,75854611,2517,household payment
+31375,1342,ST,45400208,1011,Info. not Available
+31376,1342,YZ,30762762,3665,Insurance payment
+31382,1346,WX,66261118,1592,household payment
+31383,1346,AB,56407761,475,Info. not Available
+31385,1348,CD,53150421,5025,household payment
+31386,1348,ST,8676511,17,Info. not Available
+31387,1348,UV,14109647,492,Insurance payment
+31400,1354,QR,24313408,3080,household payment
+31401,1355,WX,64249014,3606,household payment
+31405,1363,QR,46678805,5046,household payment
+31406,1363,KL,28982448,1517,Info. not Available
+31407,1363,MN,35128331,82,Insurance payment
+31408,1363,OP,19618755,243,Info. not Available
+31435,1379,AB,47752141,6953,household payment
+31442,1385,QR,75899833,9834,household payment
+31447,1389,IJ,18867123,5227.7,loan payment
+31448,1389,WX,71177351,6376,household payment
+31483,1407,UV,51198023,5227.7,loan payment
+31484,1407,ST,30396717,14882,household payment
+31502,1418,OP,96634888,6759,household payment
+31508,1424,YZ,45458507,6224,household payment
+31514,1430,CD,90607785,4127,loan payment
+31515,1432,CD,68369197,3267.2,leasing
+31516,1432,IJ,80977028,13590,household payment
+31518,1434,QR,81822454,3214,household payment
+31531,1443,UV,43636268,7505,household payment
+31538,1447,YZ,1155138,2084.7,loan payment
+31539,1447,OP,54932880,8210,household payment
+31554,1459,EF,28272974,1542,household payment
+31555,1459,OP,25038093,582,Info. not Available
+31564,1466,ST,82133537,10056,household payment
+31597,1488,WX,69482773,5850,household payment
+31598,1488,CD,64393782,230,Info. not Available
+31602,1491,OP,94478863,6966,household payment
+31613,1498,ST,26674098,2762.8,loan payment
+31621,1506,UV,28518402,9498,loan payment
+31634,1514,ST,47490662,1547,household payment
+31635,1514,WX,89040159,2234,household payment
+31644,1523,CD,15318,1684,household payment
+31645,1523,IJ,13058364,9843,Info. not Available
+31646,1524,WX,26553452,2705,household payment
+31680,1551,AB,436425,747,household payment
+31681,1551,CD,74171310,2316,household payment
+31692,1560,YZ,49192738,3332,household payment
+31693,1560,CD,89837598,244,Info. not Available
+31694,1560,UV,97033959,437,Insurance payment
+31695,1560,OP,34151840,1137,leasing
+31706,1567,UV,14090234,480,household payment
+31707,1567,CD,53102117,6000,Info. not Available
+31708,1567,EF,34027445,3455,Insurance payment
+31719,1572,EF,46670591,7596,household payment
+31720,1573,IJ,19240260,3638,household payment
+31721,1574,GH,16211796,2390,household payment
+31746,1594,WX,15203357,4577,household payment
+31747,1594,AB,37283611,1596,Info. not Available
+31748,1594,CD,79126387,54,Insurance payment
+31752,1596,KL,29656684,1306,household payment
+31753,1596,OP,20661324,1997,household payment
+31755,1598,CD,36073070,5438,household payment
+31756,1598,WX,12520486,7384,Info. not Available
+31768,1608,AB,7212549,3425,household payment
+31775,1615,QR,27684122,3124,household payment
+31776,1616,AB,24604940,2642,household payment
+31779,1619,ST,53959548,3220,household payment
+31798,1636,ST,93399142,4964,household payment
+31822,1647,OP,55010729,2412,household payment
+31823,1647,GH,78795104,1199,Info. not Available
+31824,1647,YZ,39877331,12,Insurance payment
+31825,1650,IJ,90931999,3649,household payment
+31826,1650,OP,60317361,9100,Info. not Available
+31827,1651,IJ,71805852,1581.7,leasing
+31832,1656,IJ,73249953,3954.3,loan payment
+31833,1656,YZ,10182565,12113,household payment
+31834,1657,OP,7076365,2156,household payment
+31843,1662,UV,28918445,9626,household payment
+31847,1665,EF,15931928,1578,household payment
+31849,1668,IJ,84733837,3275,household payment
+31861,1677,IJ,52726864,5530,household payment
+31866,1681,UV,8172750,8550,household payment
+31867,1681,AB,76300596,6,Info. not Available
+31868,1681,YZ,66121870,1032,Insurance payment
+31884,1693,WX,14131403,2482,leasing
+31885,1693,AB,38757246,11276,household payment
+31888,1697,QR,38106852,408,household payment
+31889,1697,AB,30674797,1778,Info. not Available
+31890,1697,CD,36977207,35,Insurance payment
+31899,1703,CD,73302203,3554,household payment
+31903,1707,YZ,25559365,1196.9,leasing
+31904,1707,KL,16216141,7830,household payment
+31908,1710,ST,17466086,2071,household payment
+31916,1717,ST,11458802,2500,household payment
+31917,1718,CD,9266335,7178,loan payment
+31918,1718,AB,69613939,14456,household payment
+31921,1723,AB,25436383,1092,household payment
+31922,1723,YZ,10030848,3904,Info. not Available
+31923,1723,GH,36498862,4676,Insurance payment
+31924,1723,ST,47622954,8,Info. not Available
+31925,1724,QR,97682117,1604,household payment
+31930,1727,QR,62198191,1794,household payment
+31931,1727,EF,22698265,1093,Info. not Available
+31932,1727,ST,4687321,3723,Insurance payment
+31934,1729,YZ,10198331,6554,household payment
+31940,1734,UV,77629792,9431,household payment
+31941,1736,MN,76685434,3666,household payment
+31946,1740,WX,75491714,2713,household payment
+31951,1747,MN,87503873,871,household payment
+31952,1747,MN,40159267,1118,Info. not Available
+31980,1764,CD,31592887,5270,household payment
+31997,1776,YZ,86032962,5710,household payment
+31998,1776,WX,80855452,1800,loan payment
+32008,1783,EF,7060194,6003,household payment
+32014,1790,KL,20001995,2096,household payment
+32015,1790,ST,2797884,1935,Info. not Available
+32020,1794,ST,3015161,2867,household payment
+32021,1794,MN,76406907,1890,Info. not Available
+32022,1794,CD,95064234,198,Insurance payment
+32023,1794,IJ,75616937,47,Info. not Available
+32024,1795,MN,78194093,3850,household payment
+32029,1798,AB,9787851,2602,household payment
+32030,1798,MN,65253668,1687,Info. not Available
+32031,1798,YZ,15383804,4316,Insurance payment
+32046,1807,YZ,25078994,4731,household payment
+32047,1808,QR,39164525,8033.2,loan payment
+32059,1814,QR,75643884,3035,household payment
+32091,1833,KL,98189168,1674,household payment
+32100,1839,OP,76028460,3093,household payment
+32101,1841,MN,89823549,2840,household payment
+32102,1841,KL,52448677,259,Info. not Available
+32107,1845,QR,5894870,12537,household payment
+32117,1854,IJ,67782974,3948,household payment
+32121,1857,CD,39414250,4295,household payment
+32122,1857,GH,97685545,279,Info. not Available
+32125,1860,GH,54349380,2170,household payment
+32129,1863,GH,79569941,3371,household payment
+32130,1863,ST,28247505,1096,Info. not Available
+32131,1863,QR,11498463,201,Insurance payment
+32134,1866,IJ,75322639,5051,household payment
+32135,1866,MN,7592410,1896,loan payment
+32136,1868,CD,26658559,12111,household payment
+32138,1872,MN,37390577,5886,household payment
+32139,1872,UV,67046397,137,Info. not Available
+32143,1876,IJ,65358716,2329,household payment
+32144,1876,YZ,2049482,723,Info. not Available
+32145,1876,EF,57234233,8710,loan payment
+32150,1881,AB,4048985,2046,household payment
+32151,1881,CD,72414660,3640,Info. not Available
+32193,1907,OP,72668206,8181,household payment
+32194,1907,UV,59887331,594,Info. not Available
+32205,1915,EF,85960626,4052,household payment
+32206,1915,GH,43997365,2142,Info. not Available
+32213,1921,MN,40611082,2309,household payment
+32214,1921,KL,97261964,124,Info. not Available
+32222,1928,GH,84353714,2317.5,loan payment
+32223,1929,IJ,23485905,2027,household payment
+32228,1933,ST,49145901,3804,household payment
+32247,1946,GH,47834515,7593,household payment
+32255,1950,KL,79988079,6943,household payment
+32256,1951,UV,67909365,709,household payment
+32257,1951,EF,62647110,968,Info. not Available
+32258,1951,GH,34857571,2441,Insurance payment
+32261,1956,UV,409156,4674,household payment
+32267,1960,YZ,50274485,2103,household payment
+32268,1960,IJ,14609361,47,Info. not Available
+32291,1976,CD,86137228,3408,household payment
+32292,1976,WX,33949554,2157,Info. not Available
+32301,1982,OP,49496763,3732,household payment
+32309,1992,AB,63505238,4140,household payment
+32315,1995,QR,94729518,2944,household payment
+32321,2000,YZ,79359417,3318,household payment
+32322,2000,GH,21546656,48,Info. not Available
+32323,2000,AB,32802260,14,Insurance payment
+32324,2000,KL,13970154,4847,loan payment
+32329,2005,ST,7945675,1924,household payment
+32330,2005,MN,85910385,141,Info. not Available
+32331,2005,GH,61473250,209,Insurance payment
+32332,2006,WX,41503340,2764,household payment
+32333,2006,AB,73561632,371,household payment
+32347,2016,WX,59047102,741,household payment
+32348,2016,KL,14798927,1069,Info. not Available
+32349,2016,ST,81232386,157,Insurance payment
+32354,2019,GH,2328062,1422,household payment
+32355,2019,AB,41162085,265,Info. not Available
+32356,2019,OP,89666372,415,Insurance payment
+32363,2024,EF,52183383,7024,household payment
+32387,2042,YZ,33737266,1258,household payment
+32388,2042,IJ,24157494,1008,Info. not Available
+32396,2048,UV,69120418,2525,household payment
+32397,2048,KL,96522324,1466,Info. not Available
+32398,2048,GH,58051741,1017,leasing
+32399,2049,AB,66625147,4854,household payment
+32400,2049,GH,14193714,1037,Info. not Available
+32410,2053,UV,22726750,4409,household payment
+32414,2055,WX,8321655,6844,household payment
+32415,2055,KL,87599461,4521,loan payment
+32416,2057,OP,70669543,3573,household payment
+32417,2057,YZ,1773274,970,Info. not Available
+32418,2057,KL,24007451,769,Insurance payment
+32419,2057,AB,71481627,102,Info. not Available
+32437,2069,YZ,91279679,484,household payment
+32438,2069,CD,57790952,2223,Info. not Available
+32439,2069,MN,75770503,2108,Insurance payment
+32440,2069,YZ,80550372,118,Info. not Available
+32442,2071,ST,19791907,125,household payment
+32443,2071,WX,44377255,3093,Info. not Available
+32445,2073,KL,67186093,1860,loan payment
+32454,2080,UV,34001827,5961,loan payment
+32455,2080,UV,62451505,13628,household payment
+32456,2081,AB,25160008,2028,household payment
+32462,2085,AB,3505379,2124,household payment
+32463,2085,UV,94459324,305,Info. not Available
+32464,2085,IJ,30590856,4045,Insurance payment
+32483,2103,IJ,66471505,1482,household payment
+32484,2103,EF,60364776,2211,Info. not Available
+32502,2118,YZ,74920552,9871,household payment
+32515,2125,UV,70317023,3225,household payment
+32516,2127,EF,24088090,1995,household payment
+32524,2133,QR,57979929,2143,household payment
+32528,2135,KL,89391642,2740,household payment
+32529,2135,QR,91295229,4101,Info. not Available
+32531,2138,UV,60928738,9788,household payment
+32536,2141,UV,77834790,5796,household payment
+32537,2142,YZ,3758663,9768,household payment
+32538,2142,OP,47238999,1944,loan payment
+32556,2152,QR,56643396,3191,household payment
+32571,2162,UV,68998408,8468,household payment
+32575,2165,CD,40212154,3274.8,loan payment
+32576,2165,IJ,83407926,12493,household payment
+32577,2166,YZ,4978508,262,household payment
+32578,2166,ST,84241741,991,Info. not Available
+32579,2166,UV,73421168,5263,Insurance payment
+32586,2169,AB,49559926,6235,household payment
+32587,2169,QR,71835785,875,Info. not Available
+32588,2169,MN,98909568,1530,leasing
+32594,2172,KL,8108789,3413,household payment
+32595,2173,WX,74140065,1951,household payment
+32596,2174,OP,97218501,4367,household payment
+32609,2182,OP,88771032,5262,household payment
+32610,2184,IJ,59498178,3165,household payment
+32629,2194,EF,28507352,9386,household payment
+32630,2196,IJ,33944320,2160,household payment
+32631,2197,YZ,97071992,8524,household payment
+32637,2200,GH,7693958,397,leasing
+32644,2204,OP,86412846,3954,household payment
+32647,2208,IJ,50562041,2126,household payment
+32651,2211,IJ,93359732,7863,household payment
+32655,2215,QR,36252600,2348,household payment
+32661,2221,EF,85032087,1455,household payment
+32662,2221,CD,6097948,719,Info. not Available
+32665,2224,CD,33305394,2324.2,leasing
+32673,2229,KL,29944843,9605,household payment
+32675,2231,AB,8985472,2181,household payment
+32676,2231,KL,11682016,1431,Info. not Available
+32729,2262,CD,77488755,6395,loan payment
+32738,2270,YZ,68958437,3604,household payment
+32740,2272,WX,99929630,3986,household payment
+32776,2296,OP,93267988,3531,household payment
+32796,2311,AB,43163901,6798,household payment
+32797,2312,CD,88846653,3392,household payment
+32801,2316,KL,64642989,2111,household payment
+32802,2316,IJ,96044265,7,Info. not Available
+32803,2316,MN,51700419,8,Info. not Available
+32804,2317,CD,55275732,195,household payment
+32805,2317,AB,58933603,2486,household payment
+32821,2324,WX,80225026,4151,household payment
+32822,2325,GH,26319808,1334,household payment
+32823,2325,ST,46773761,2155,Info. not Available
+32824,2325,MN,86350583,2270,Insurance payment
+32842,2337,IJ,18192541,2963,household payment
+32843,2337,UV,63713687,927,Info. not Available
+32844,2338,GH,76516425,1207.8,leasing
+32866,2351,QR,91637825,9173,household payment
+32873,2354,ST,23677683,9071,household payment
+32885,2366,CD,66497516,388,household payment
+32886,2366,QR,30780631,1261,household payment
+32890,2369,YZ,20459878,7292,household payment
+32891,2369,EF,44902819,207,Info. not Available
+32892,2370,MN,28076833,9747,household payment
+32893,2371,UV,10878855,7101.3,loan payment
+32894,2371,YZ,33079290,12510,household payment
+32895,2371,AB,87190907,793,Info. not Available
+32896,2371,OP,51855623,1087,Insurance payment
+32897,2371,YZ,45326221,294,Info. not Available
+32898,2372,KL,46931564,108,household payment
+32899,2372,MN,79875886,1946,Info. not Available
+32900,2372,GH,21510470,107,Insurance payment
+32901,2372,MN,9774154,131,Info. not Available
+32913,2380,QR,25673014,4206,household payment
+32914,2381,WX,94099801,9358,household payment
+32929,2391,GH,6469798,4959,household payment
+32932,2394,KL,1669449,3103,loan payment
+32933,2394,IJ,38287389,3131,household payment
+32934,2394,CD,11698562,182,Info. not Available
+32935,2394,WX,93556361,788,Insurance payment
+32942,2402,IJ,65373653,2384,household payment
+32944,2404,YZ,50743573,5488,household payment
+32945,2405,KL,9480673,6407,household payment
+32957,2413,KL,97954469,6448,household payment
+32958,2413,MN,81122290,1496,loan payment
+32961,2415,OP,65874808,7308,household payment
+32970,2422,EF,17186141,2809,household payment
+32994,2438,GH,26398313,5817,household payment
+32995,2438,UV,62592428,705,Info. not Available
+32997,2440,YZ,19144922,6219,household payment
+32998,2440,KL,30988913,661,Info. not Available
+32999,2440,GH,32329070,1230,Insurance payment
+33003,2442,AB,89339786,540,household payment
+33004,2442,IJ,67963898,1568,Info. not Available
+33005,2443,OP,54071068,7034,household payment
+33006,2444,OP,60390728,2931.6,leasing
+33009,2447,WX,57538109,6911,household payment
+33010,2448,MN,56000006,1067,household payment
+33011,2448,CD,6193393,1193,Info. not Available
+33014,2451,IJ,55826187,6944,household payment
+33015,2452,WX,99223190,3244,household payment
+33017,2455,OP,28967535,3262,household payment
+33021,2459,ST,65574568,1971,household payment
+33030,2466,WX,78467875,37,household payment
+33031,2466,IJ,40924441,3733,Info. not Available
+33053,2477,EF,3161973,3096,household payment
+33059,2480,YZ,46494776,3022,leasing
+33071,2485,UV,69825196,1944,household payment
+33084,2492,ST,72453939,3235,household payment
+33085,2492,GH,49046558,506,household payment
+33090,2495,MN,76154935,856,leasing
+33111,2509,OP,85724323,7073,household payment
+33112,2509,AB,73543202,4377,Info. not Available
+33113,2509,OP,83953725,1950,Insurance payment
+33150,2535,OP,1460,4273,household payment
+33151,2535,QR,20700508,90,Info. not Available
+33152,2535,QR,5892384,153,Insurance payment
+33154,2537,UV,70319515,13540,household payment
+33156,2539,MN,2063680,1919,household payment
+33157,2539,MN,22129971,1904,household payment
+33191,2556,WX,2889705,2006,household payment
+33193,2558,CD,46043479,1982,household payment
+33195,2560,CD,63472384,1146,household payment
+33196,2560,IJ,44398903,4445,Info. not Available
+33200,2564,GH,96319454,8086,household payment
+33210,2575,ST,15963220,407,household payment
+33211,2575,UV,83146077,2171,household payment
+33215,2579,OP,96343248,2688,household payment
+33233,2594,GH,34011191,1189,leasing
+33234,2594,CD,21398240,10912,household payment
+33235,2594,OP,75519376,506,Info. not Available
+33236,2595,ST,2264398,3481,household payment
+33238,2597,YZ,16589868,1398,household payment
+33239,2597,MN,7596224,1957,Info. not Available
+33249,2607,IJ,86115359,1433,household payment
+33250,2607,GH,82425427,755,Info. not Available
+33251,2607,EF,72089344,882,Insurance payment
+33252,2607,UV,50356459,1570,leasing
+33256,2612,WX,2631092,2259.5,leasing
+33283,2637,IJ,16977686,5194,household payment
+33295,2644,CD,72787970,2563,household payment
+33296,2644,IJ,61139798,124,household payment
+33302,2646,EF,53211688,3005.8,leasing
+33303,2646,MN,34138214,6232,household payment
+33304,2646,OP,72267347,528,Info. not Available
+33305,2646,QR,99920969,300,Insurance payment
+33316,2653,YZ,49173659,6280,household payment
+33317,2653,CD,82124638,2310,Info. not Available
+33323,2656,OP,41066408,409,household payment
+33324,2656,OP,42664700,1718,household payment
+33326,2658,WX,70099252,486,household payment
+33327,2658,MN,3748625,1367,Info. not Available
+33328,2658,CD,91022419,417,Insurance payment
+33331,2661,GH,84294449,4764,household payment
+33339,2668,YZ,53599059,9884,household payment
+33347,2672,OP,87283455,2111,household payment
+33348,2672,IJ,41447466,211,Info. not Available
+33358,2678,EF,97883551,3793,leasing
+33359,2679,AB,25353056,3842,household payment
+33374,2689,YZ,50778090,2727,household payment
+33375,2689,UV,36906784,2121,Info. not Available
+33376,2690,YZ,55287820,2017,household payment
+33379,2693,IJ,79708873,5852,household payment
+33383,2696,OP,90366512,3115,household payment
+33398,2703,AB,7336545,2082,household payment
+33412,2715,WX,67997187,1707,household payment
+33413,2715,CD,56625884,216,Info. not Available
+33414,2715,KL,7159662,296,Insurance payment
+33419,2720,ST,27251911,2608.2,loan payment
+33420,2720,YZ,96241729,6206,household payment
+33421,2720,AB,33301061,4719,Info. not Available
+33422,2721,QR,69068598,1544,household payment
+33423,2721,QR,48024463,2200,Info. not Available
+33424,2721,MN,20500302,179,Insurance payment
+33425,2721,ST,69458347,73,Info. not Available
+33426,2722,KL,4174536,1671,household payment
+33429,2725,CD,59237199,3197,household payment
+33430,2725,WX,80807143,66,Info. not Available
+33431,2725,IJ,64775931,461,Insurance payment
+33432,2725,WX,31665891,1934,loan payment
+33434,2728,OP,99268948,2607,loan payment
+33435,2728,EF,96346175,11222,household payment
+33455,2743,ST,1417857,3330,household payment
+33456,2743,GH,18241173,2811,Info. not Available
+33457,2743,QR,20341313,1870,Insurance payment
+33458,2744,ST,49756062,14384,household payment
+33459,2745,AB,76602530,1076,household payment
+33460,2745,UV,59444808,3461,Info. not Available
+33461,2745,KL,40470147,1465,Insurance payment
+33462,2745,GH,33104568,3525,Info. not Available
+33478,2756,YZ,94753807,8702,household payment
+33482,2760,OP,87346362,5369,household payment
+33483,2760,IJ,9268027,4476,Info. not Available
+33492,2765,CD,33376592,5254,household payment
+33493,2766,QR,91327929,3498,household payment
+33512,2775,EF,66799968,3455.5,leasing
+33513,2775,AB,56198441,8691,household payment
+33514,2776,QR,40267509,1647,household payment
+33521,2782,IJ,16703307,2602.8,leasing
+33522,2784,MN,51967656,3307,household payment
+33526,2787,QR,19312352,8356,household payment
+33532,2791,GH,13939756,3215,household payment
+33538,2796,ST,33603441,3381,household payment
+33539,2796,MN,37211978,5291,Info. not Available
+33544,2800,OP,95347153,8740,household payment
+33549,2806,MN,74175697,5068,household payment
+33567,2816,IJ,98916184,3933,household payment
+33568,2816,KL,33418482,644,Info. not Available
+33573,2820,WX,69806456,1645,household payment
+33574,2820,KL,91463666,1322,household payment
+33593,2831,MN,83744406,3586,household payment
+33594,2831,IJ,53561782,793,Info. not Available
+33595,2831,IJ,29570031,363,Insurance payment
+33596,2831,GH,48501449,414,Info. not Available
+33597,2832,WX,70201998,2122,household payment
+33617,2843,KL,70247077,7746,household payment
+33618,2845,EF,94221847,6559,household payment
+33619,2846,GH,17155772,2457,household payment
+33626,2850,QR,60242688,2038,household payment
+33628,2854,UV,42156320,4186,household payment
+33631,2857,WX,60526561,6317,household payment
+33660,2874,EF,91025083,2066,household payment
+33663,2878,IJ,92538761,3192,household payment
+33664,2879,WX,51897668,7193,household payment
+33669,2883,IJ,75625574,2497,household payment
+33680,2891,QR,1952332,4614,household payment
+33681,2891,ST,74825072,4928,Info. not Available
+33682,2891,AB,25900477,1756,leasing
+33689,2897,UV,27572107,5751,household payment
+33691,2899,GH,887281,7503,household payment
+33692,2901,MN,42160421,4936,household payment
+33700,2908,YZ,40506255,3207,household payment
+33702,2910,UV,32031208,7291.3,loan payment
+33703,2910,UV,77491187,6778,household payment
+33704,2910,OP,4570603,7656,Info. not Available
+33719,2918,QR,30644363,7997.2,loan payment
+33720,2918,AB,49901193,10487,household payment
+33722,2920,EF,16727841,5493,household payment
+33730,2927,YZ,20619231,2025,leasing
+33747,2937,IJ,18161338,3230,household payment
+33752,2939,GH,76236229,2882,household payment
+33756,2942,QR,93897425,2451,household payment
+33757,2942,UV,81376140,1072,Info. not Available
+33773,2952,YZ,60263645,1629,household payment
+33774,2952,QR,47959893,750,household payment
+33778,2954,WX,47941517,8306,household payment
+33780,2956,MN,21069139,9042,household payment
+33788,2964,QR,96140092,2306,household payment
+33790,2966,EF,86442154,4560,household payment
+33811,2979,QR,8953369,3494,household payment
+33813,2981,CD,49108111,2022,household payment
+33836,2992,OP,59211057,5396,household payment
+33844,2997,MN,27474618,1978,household payment
+33845,2998,OP,27213704,3170,household payment
+33846,2998,MN,53139364,28,Info. not Available
+33847,2998,EF,11165088,3,Insurance payment
+33853,3005,CD,95518534,8125.3,loan payment
+33854,3005,IJ,33958757,6883,household payment
+33855,3005,AB,44410479,7696,Info. not Available
+33865,3012,YZ,76434039,2601,household payment
+33866,3013,YZ,42602026,3064,household payment
+33877,3023,OP,15459257,2213,household payment
+33880,3025,EF,14488661,3354,household payment
+33887,3031,KL,53394967,2789,household payment
+33889,3033,YZ,42934656,605,household payment
+33890,3033,OP,9593081,192,Info. not Available
+33891,3033,UV,11267763,1137,Insurance payment
+33910,3046,IJ,27034569,1889,household payment
+33911,3046,MN,23135692,613,Info. not Available
+33913,3048,UV,57049596,4631.2,leasing
+33922,3052,MN,81194168,4144.5,leasing
+33923,3052,MN,40350818,6175,household payment
+33932,3057,WX,53154373,4646,household payment
+33933,3059,AB,37264526,1433,household payment
+33934,3059,IJ,42451202,1758,Info. not Available
+33935,3059,QR,52040380,529,Insurance payment
+33936,3060,IJ,55676627,3960,household payment
+33938,3062,AB,21810698,2638,household payment
+33946,3067,EF,14703780,2604,household payment
+33947,3067,AB,61285483,1330,Info. not Available
+33950,3070,UV,28481227,3374,household payment
+33958,3075,KL,50335317,1523,household payment
+33960,3077,OP,91859578,3698,household payment
+33967,3082,OP,12562770,7496,household payment
+33970,3085,OP,55201452,5723,household payment
+33971,3085,MN,41444516,907,Info. not Available
+33998,3097,EF,18871748,403,household payment
+33999,3097,ST,70961040,2119,Info. not Available
+34002,3100,AB,66114073,222,household payment
+34003,3100,CD,8754432,6275,Info. not Available
+34005,3102,ST,24365711,6722,household payment
+34006,3103,GH,71421909,9388,household payment
+34007,3103,EF,57580989,776,Info. not Available
+34008,3103,AB,37620896,4244,Insurance payment
+34009,3104,OP,58133125,2004,household payment
+34010,3105,ST,35257673,2145,household payment
+34027,3119,AB,77515130,1144,household payment
+34028,3119,MN,30850821,84,Info. not Available
+34029,3119,MN,80588805,884,Insurance payment
+34032,3122,AB,14967674,4944,household payment
+34054,3140,OP,56121855,2376,household payment
+34055,3140,WX,26200568,1978,Info. not Available
+34077,3154,WX,76435845,3609,household payment
+34078,3154,KL,5445003,515,Info. not Available
+34080,3156,KL,10083705,1087,leasing
+34090,3163,WX,2153873,2221.7,leasing
+34091,3163,MN,79781448,2350,household payment
+34092,3163,OP,11820799,6514,Info. not Available
+34093,3163,UV,83438044,1620,Insurance payment
+34100,3169,YZ,57548916,836,household payment
+34101,3169,OP,67546647,6674,Info. not Available
+34104,3172,ST,38317006,1899,household payment
+34105,3172,EF,26548195,43,Info. not Available
+34108,3174,IJ,69832593,2859,household payment
+34110,3176,WX,84174042,2464,household payment
+34120,3185,AB,90867876,6404,household payment
+34121,3185,ST,46145159,2041,Info. not Available
+34123,3188,AB,82353186,7623,household payment
+34131,3194,OP,46890920,7584,household payment
+34144,3202,ST,94148736,1613,household payment
+34145,3202,CD,62389814,908,household payment
+34152,3209,QR,59829372,5659,household payment
+34154,3211,WX,11110592,2012,household payment
+34161,3214,EF,20723015,2679,household payment
+34167,3217,MN,98874544,1951.3,leasing
+34168,3217,GH,66272967,8196,household payment
+34197,3236,GH,61162030,350,household payment
+34198,3236,KL,52487677,2038,household payment
+34208,3242,MN,17684483,5838,household payment
+34209,3242,UV,96171485,1551,loan payment
+34213,3245,WX,34591257,3878,household payment
+34240,3262,IJ,79490107,8340,household payment
+34243,3266,UV,53358691,119,household payment
+34244,3266,GH,81213712,1528,household payment
+34257,3274,IJ,82867139,5775,household payment
+34260,3276,IJ,54098749,1722,household payment
+34261,3276,CD,4509616,929,Info. not Available
+34262,3276,WX,88365083,1017,Insurance payment
+34266,3281,CD,23259127,3594,household payment
+34277,3293,AB,78677373,7668.7,loan payment
+34278,3293,MN,12542009,3231,household payment
+34279,3293,EF,86246293,567,Info. not Available
+34280,3293,WX,16846144,58,Insurance payment
+34281,3293,CD,46667754,221,Info. not Available
+34289,3299,QR,50097662,4676,loan payment
+34290,3300,UV,49339282,7786.5,loan payment
+34291,3300,UV,88663518,6632,household payment
+34296,3304,OP,36187023,4660,household payment
+34327,3324,ST,36944615,2471,household payment
+34328,3324,OP,46396940,2146,Info. not Available
+34331,3328,AB,72908800,3300,household payment
+34336,3331,EF,11893606,3832,household payment
+34337,3331,YZ,15388948,1436,Info. not Available
+34340,3337,KL,54129630,5743,household payment
+34346,3342,EF,71651464,8335,household payment
+34347,3343,MN,51401966,2212,household payment
+34348,3343,QR,27868533,7661,Info. not Available
+34349,3344,KL,21086722,8537,household payment
+34351,3346,IJ,52659970,2276,household payment
+34352,3346,WX,56243741,4930,Info. not Available
+34376,3360,OP,85336076,9194,household payment
+34383,3365,YZ,10983294,2298,household payment
+34384,3365,WX,74494957,677,household payment
+34405,3381,WX,40119654,9971,household payment
+34406,3382,GH,87277590,3975.8,loan payment
+34408,3385,UV,84957164,3454,household payment
+34424,3395,OP,31348461,3712,household payment
+34426,3398,CD,52684825,1990,household payment
+34433,3401,OP,90434562,4247,household payment
+34437,3403,QR,57706224,1995,loan payment
+34439,3406,EF,9910709,2820,household payment
+34456,3415,QR,59051889,4178,household payment
+34468,3423,UV,56754469,1110,household payment
+34469,3423,GH,76289182,2685,Info. not Available
+34483,3433,IJ,6368720,2303,household payment
+34512,3460,IJ,5287313,2931,loan payment
+34515,3463,QR,23059034,646,household payment
+34516,3463,AB,65683340,5186,Info. not Available
+34517,3463,GH,85014348,2552,Insurance payment
+34533,3470,EF,60161107,2492,household payment
+34534,3471,WX,495654,5446,household payment
+34535,3471,YZ,42072856,846,Info. not Available
+34585,3501,UV,83109223,7590,household payment
+34586,3501,OP,60597056,2225,Info. not Available
+34587,3501,EF,31481027,7304,loan payment
+34591,3506,MN,58155363,3562,household payment
+34592,3506,GH,59540486,4084,Info. not Available
+34604,3524,WX,74303066,3060,household payment
+34607,3527,YZ,67898595,3414,household payment
+34616,3537,KL,60367298,646,household payment
+34617,3537,KL,1519895,3772,Info. not Available
+34618,3537,WX,75993489,50,Insurance payment
+34619,3537,ST,5785829,27,Info. not Available
+34620,3540,UV,51321852,2565,household payment
+34621,3541,OP,69823670,1691,household payment
+34624,3544,AB,94637792,10975,household payment
+34626,3546,ST,93214726,1658,household payment
+34627,3546,ST,36442333,4795,Info. not Available
+34642,3556,AB,15446061,2913.8,loan payment
+34643,3556,OP,63096010,4240,household payment
+34644,3556,AB,8922565,984,Info. not Available
+34651,3561,AB,87848221,1789,household payment
+34653,3565,QR,59281444,492,household payment
+34654,3565,QR,37784505,1494,Info. not Available
+34655,3565,AB,17042690,410,Insurance payment
+34667,3574,WX,11223960,2328,household payment
+34671,3577,IJ,28108173,7964,household payment
+34676,3581,EF,78509592,3663,household payment
+34677,3581,IJ,1107889,2846,Info. not Available
+34697,3598,MN,9772658,6435,household payment
+34701,3603,UV,31472325,7883,household payment
+34714,3610,IJ,97961097,1502,household payment
+34715,3610,MN,83137714,1133,household payment
+34765,3633,AB,84880846,7037,household payment
+34766,3633,AB,61292290,799,Info. not Available
+34767,3634,GH,31865799,4851.1,leasing
+34768,3635,KL,61182141,2045,household payment
+34769,3635,MN,61283069,493,Info. not Available
+34777,3639,OP,74130224,3358,household payment
+34796,3652,GH,31254297,3005,household payment
+34803,3657,AB,71329426,1533,household payment
+34804,3659,WX,60077226,1672,household payment
+34805,3659,AB,66256487,2862,Info. not Available
+34806,3659,ST,66483676,2205,Insurance payment
+34807,3659,ST,8070820,955,Info. not Available
+34811,3665,OP,36443472,3394.8,leasing
+34812,3665,ST,18253863,4351,household payment
+34813,3665,QR,84521090,2465,Info. not Available
+34821,3671,ST,62767541,2777,household payment
+34837,3681,AB,62512141,7797,household payment
+34842,3686,OP,22078037,2054,household payment
+34847,3692,ST,73999780,3263,household payment
+34850,3695,EF,65356701,8101,household payment
+34856,3700,GH,41282796,5230,household payment
+34860,3703,QR,89147013,1820,household payment
+34861,3703,GH,25207352,192,Info. not Available
+34870,3711,CD,24353820,7683.2,loan payment
+34880,3719,QR,49360007,3197,household payment
+34884,3722,QR,71472602,8123,household payment
+34885,3724,YZ,86384850,2597,loan payment
+34895,3732,ST,31681299,1668,household payment
+34907,3742,UV,34186905,2969,household payment
+34941,3757,KL,350499,987,household payment
+34942,3757,ST,43094796,1229,Info. not Available
+34943,3757,EF,59959924,803,Insurance payment
+34944,3757,OP,41911280,3933,Info. not Available
+34964,3773,MN,19248593,3146,household payment
+34981,3782,UV,93482148,553,household payment
+34982,3782,UV,43415004,2790,Info. not Available
+34983,3782,AB,96572547,10608,Insurance payment
+34996,3794,KL,83359801,4536,household payment
+35000,3798,MN,51615589,1258,household payment
+35001,3798,MN,28350711,8637,Info. not Available
+35026,3813,EF,81887119,5645,household payment
+35027,3813,KL,81905740,895,Info. not Available
+35028,3813,EF,20648479,333,Insurance payment
+35039,3828,GH,80965399,2010,household payment
+35044,3830,EF,9319293,5498,household payment
+35048,3833,MN,68814772,6760,household payment
+35056,3836,QR,24936366,2676,household payment
+35057,3836,MN,95188617,1011,Info. not Available
+35058,3836,YZ,32683402,5308,Insurance payment
+35064,3842,ST,627255,2776,household payment
+35067,3846,GH,312638,2016,household payment
+35075,3851,MN,52305114,1294,household payment
+35076,3851,KL,91988861,9505,Info. not Available
+35077,3852,CD,38480061,220,household payment
+35078,3852,CD,24416232,3144,household payment
+35086,3857,ST,18218005,2183,household payment
+35090,3861,EF,32061487,4227,household payment
+35100,3867,AB,21799749,5476,household payment
+35104,3870,AB,91396879,3673,household payment
+35107,3872,UV,37346983,2502.2,loan payment
+35108,3872,GH,39719027,1691,household payment
+35109,3872,QR,66648661,923,Info. not Available
+35110,3872,KL,84313565,5301,Insurance payment
+35111,3872,MN,8770090,2908,Info. not Available
+35116,3875,IJ,93942355,6413.7,loan payment
+35134,3885,GH,4249543,1176,leasing
+35136,3889,KL,70547342,173,household payment
+35137,3889,GH,94921665,1767,Info. not Available
+35148,3897,MN,68786066,5350,household payment
+35153,3901,GH,92254411,932,leasing
+35158,3905,YZ,45596945,7689,household payment
+35159,3906,EF,96055197,5577.3,loan payment
+35161,3908,KL,49593687,1630,household payment
+35162,3908,QR,26197701,1008,household payment
+35166,3910,YZ,79231428,2673,household payment
+35167,3911,EF,83345818,1946,household payment
+35173,3916,EF,91283201,2693.7,loan payment
+35174,3916,UV,38921874,10900,household payment
+35175,3916,UV,51592075,1078,Info. not Available
+35176,3916,AB,23392904,2570,Insurance payment
+35182,3919,KL,81950729,3521,household payment
+35183,3922,MN,27645427,2953,household payment
+35199,3934,MN,96072834,2396,household payment
+35226,3950,EF,8577830,6955,household payment
+35227,3950,WX,71886944,1185,leasing
+35228,3951,OP,7565194,7284,loan payment
+35231,3953,AB,85838764,5297.7,loan payment
+35237,3959,AB,40621632,1680.6,leasing
+35239,3961,AB,38375651,2309,household payment
+35240,3963,IJ,27212840,3477,household payment
+35241,3963,WX,88884788,95,Info. not Available
+35242,3963,EF,42651188,70,Insurance payment
+35243,3964,UV,49043488,2146,household payment
+35248,3971,KL,30010575,9510,household payment
+35249,3971,UV,54464662,1026,Info. not Available
+35250,3971,WX,30132991,857,Insurance payment
+35251,3971,MN,55104500,402,Info. not Available
+35271,3985,GH,17921477,2007,household payment
+35272,3986,AB,78493797,3960,household payment
+35273,3986,WX,87679379,2649,Info. not Available
+35274,3987,WX,32697832,4992,household payment
+35275,3987,QR,86586814,1526,leasing
+35277,3990,YZ,18163431,10312,household payment
+35279,3992,ST,15884882,6738,household payment
+35284,3996,YZ,29565316,1511,household payment
+35291,4003,OP,382733,3815.5,leasing
+35292,4003,YZ,76160329,3786,household payment
+35317,4026,ST,76516663,2620.4,leasing
+35318,4026,IJ,95854043,2618,household payment
+35319,4026,QR,60125994,9711,Info. not Available
+35364,4052,IJ,25790983,2948,loan payment
+35422,4091,YZ,45072424,4247,household payment
+35423,4091,ST,12956852,185,Info. not Available
+35424,4091,CD,73299705,907,leasing
+35462,4116,MN,92376952,4200.2,loan payment
+35463,4116,IJ,69320016,14448,household payment
+35493,4143,OP,86283540,1896,leasing
+35503,4150,ST,41463971,3006,household payment
+35504,4150,WX,91151189,1669,Info. not Available
+35505,4150,QR,82856064,75,Insurance payment
+35506,4150,CD,57309913,1273,leasing
+35680,4266,MN,21157777,9098,household payment
+35681,4266,QR,92455988,507,leasing
+35683,4268,IJ,24499589,6646,household payment
+35684,4268,AB,28338015,3499,loan payment
+35737,4309,UV,97354483,4825.3,loan payment
+35767,4332,WX,43657523,4609.6,leasing
+35768,4332,GH,21178984,7885,household payment
+35772,4336,CD,16882026,4556,leasing
+35773,4336,WX,30210501,8316,household payment
+35794,4354,MN,33371013,5461.3,loan payment
+35795,4354,CD,23047155,12756,household payment
+35798,4358,IJ,36673987,2542,leasing
+35829,4386,ST,24428779,1590,leasing
+35830,4386,OP,82197737,11954,household payment
+35956,4467,UV,25870239,2394.5,loan payment
+35957,4467,QR,66281664,4556,household payment
+35964,4471,CD,9000087,3029.2,leasing
+35965,4471,AB,60353129,11318,household payment
+35971,4475,YZ,70522868,1691.9,leasing
+36042,4527,QR,12378204,2156,loan payment
+36048,4533,CD,10384428,2253.5,loan payment
+36049,4533,OP,65046036,10479,household payment
+36066,4550,IJ,71980470,1113,household payment
+36067,4550,EF,95971029,1607,Info. not Available
+36068,4550,ST,19181561,424,Insurance payment
+36069,4550,WX,30900681,1022,loan payment
+36166,4616,GH,74167519,2778.7,loan payment
+36167,4616,WX,88828020,12260,household payment
+36230,4660,QR,35342312,4456,loan payment
+36231,4660,QR,85892647,2121,household payment
+36232,4660,UV,85081994,475,Info. not Available
+36233,4660,MN,76798975,437,Insurance payment
+36341,4725,KL,46966421,4674.2,loan payment
+36342,4725,KL,77940284,13462,household payment
+36371,4746,UV,51417624,3413,loan payment
+36424,4784,CD,68459832,4572,loan payment
+36539,4858,AB,67520165,6983.3,loan payment
+37012,5164,EF,54096066,4261,household payment
+37013,5164,UV,10503888,621,loan payment
+37032,5180,WX,41377508,4897,loan payment
+37059,5196,YZ,95793395,6652.5,loan payment
+37060,5196,CD,22101694,7905,household payment
+37196,5283,KL,94041960,3559,loan payment
+37197,5283,YZ,67168420,9649,household payment
+37213,5290,YZ,96250020,7537,loan payment
+37214,5290,UV,29544717,6293,household payment
+37215,5290,WX,1615906,2245,Info. not Available
+37216,5290,QR,95391487,1336,Insurance payment
+37462,5445,QR,10110479,2186,loan payment
+37463,5445,UV,2227068,685,household payment
+37464,5445,IJ,80277055,1439,Info. not Available
+37465,5445,OP,4871046,624,Insurance payment
+37466,5445,KL,26684844,859,Info. not Available
+37665,5572,IJ,85013025,2348,loan payment
+37666,5572,KL,53127735,11314,household payment
+37847,5698,OP,81442999,2756,loan payment
+37848,5698,QR,64414620,10120,household payment
+37937,5758,KL,97891717,5700.7,loan payment
+37938,5758,IJ,690603,3063,household payment
+37939,5758,WX,15063757,3203,Info. not Available
+37940,5758,UV,75170343,7996,Insurance payment
+38190,5944,AB,49417829,4685,household payment
+38191,5944,AB,50435006,1640,loan payment
+38373,6061,YZ,38191717,8521,household payment
+38374,6061,KL,92930179,429,loan payment
+38431,6097,WX,87940978,3155,household payment
+38432,6097,KL,34494578,728,loan payment
+38500,6138,EF,68264150,2817.3,loan payment
+38501,6138,WX,42320823,10869,household payment
+39027,6505,WX,49671936,3207.8,loan payment
+39167,6602,GH,94580405,8523,loan payment
+39646,6922,UV,54632151,5811.7,loan payment
+39835,7049,GH,52499610,8253.2,loan payment
+39841,7052,AB,10413468,1776.7,loan payment
+40034,7156,MN,60879224,2062,loan payment
+40071,7180,YZ,5624032,4156.5,loan payment
+40072,7180,ST,71244883,8089,household payment
+40226,7274,WX,91164630,4086.8,loan payment
+40227,7274,WX,33532422,4603,household payment
+40381,7437,QR,79067885,2306.8,loan payment
+40382,7437,EF,2692229,6901,household payment
+40383,7437,KL,83435654,231,Info. not Available
+40384,7437,OP,64685678,228,Insurance payment
+40588,7559,YZ,78349375,4112,household payment
+40589,7559,GH,48709929,1066,loan payment
+40827,7721,IJ,35142588,3788.3,loan payment
+41316,8026,GH,42597097,3563,loan payment
+41501,8149,IJ,85080247,4190.3,loan payment
+41507,8153,IJ,48735177,1993.6,leasing
+41746,8320,UV,30686378,5161.2,loan payment
+41747,8320,KL,9010935,9105,household payment
+42029,8505,UV,92435764,3570,loan payment
+42221,8639,MN,67667299,3094.5,loan payment
+42234,8645,KL,37808364,8919,household payment
+42235,8645,CD,50500750,4015,loan payment
+42322,8713,ST,10424369,2845,loan payment
+42360,8742,MN,70177709,68,household payment
+42361,8742,EF,59493338,235,Info. not Available
+42362,8742,YZ,45149773,6089,Insurance payment
+42363,8742,GH,12393570,2762,loan payment
+42612,8919,KL,55111950,166,household payment
+42613,8919,ST,41956782,2670,Info. not Available
+42614,8919,IJ,5126792,3171,loan payment
+42625,8926,ST,35869842,3912,household payment
+42626,8926,WX,2699643,2693,Info. not Available
+42627,8926,MN,94917398,1142,Insurance payment
+42628,8926,UV,49839079,25,Info. not Available
+42629,8926,CD,21242875,9444,loan payment
+42782,9031,UV,95826726,2088,loan payment
+42783,9031,AB,35263872,4228,household payment
+42784,9031,AB,50771135,145,Info. not Available
+42785,9031,IJ,85827368,645,Insurance payment
+42946,9140,CD,64458685,9264,household payment
+42947,9140,UV,6970173,19,Info. not Available
+42948,9140,WX,30615341,56,Insurance payment
+42949,9140,MN,91346168,334,loan payment
+42971,9156,WX,22888767,4537.3,loan payment
+42990,9167,MN,98049097,4537.3,loan payment
+42991,9167,QR,15502429,4950,household payment
+42992,9167,WX,99994199,887,Info. not Available
+42993,9167,AB,40962070,545,Insurance payment
+43002,9179,CD,47917145,3583.7,loan payment
+43034,9208,WX,63637012,3421.5,loan payment
+43056,9227,IJ,23946523,1784,household payment
+43057,9227,AB,54022675,1164,Info. not Available
+43058,9227,GH,92207109,3193,loan payment
+43375,9433,KL,67186093,1860,loan payment
+43573,9560,OP,86154901,4362.7,loan payment
+43574,9560,EF,53716289,7234,household payment
+43737,9673,QR,70481157,2450.2,loan payment
+43738,9673,GH,96695422,3684,household payment
+43821,9730,WX,53964394,258,household payment
+43822,9730,AB,9366584,4764,Info. not Available
+43823,9730,WX,82324945,1934,loan payment
+44232,10005,WX,1889122,5854.2,loan payment
+44233,10005,WX,9563577,9151,household payment
+44249,10022,OP,56197208,4542.7,loan payment
+44250,10022,MN,25915658,7678,household payment
+44251,10022,MN,82763254,4104,Info. not Available
+44330,10068,WX,81110077,6483.7,loan payment
+44412,10134,EF,12704295,5681.8,loan payment
+44413,10134,QR,69918125,9535,household payment
+44435,10148,UV,70086633,4205,household payment
+44436,10148,UV,85131781,1866,Info. not Available
+44437,10148,ST,5157071,1842,loan payment
+44578,10243,GH,33131796,3151.3,loan payment
+44598,10257,IJ,7045454,3151.3,loan payment
+44599,10257,YZ,6128639,14801,household payment
+44983,10493,UV,88460844,5575.3,loan payment
+44984,10493,YZ,11884606,8594,household payment
+44985,10493,AB,16853463,842,Info. not Available
+45167,10613,MN,57666522,5204.2,loan payment
+45210,10644,ST,68935322,7498.7,loan payment
+45211,10644,GH,87092184,11053,household payment
+45221,10650,QR,49945110,4088,loan payment
+45222,10650,WX,40695470,10356,household payment
+45224,10652,UV,59188014,3810,loan payment
+45225,10652,MN,74468493,1290,household payment
+45226,10652,QR,87759685,2362,Info. not Available
+45271,10679,AB,88228171,8241.8,loan payment
+45272,10679,UV,90083878,6670,household payment
+45417,10774,AB,56546854,3728,household payment
+45418,10774,QR,93903570,7066,loan payment
+45448,10799,UV,80825555,519,loan payment
+45460,10812,IJ,5287313,2931,loan payment
+45618,10915,AB,40481370,2540.8,loan payment
+45619,10915,CD,80617797,2596,household payment
+45620,10915,GH,27411347,390,Info. not Available
+45621,10915,IJ,40923118,3651,Insurance payment
+45622,10915,WX,53494477,4520,Info. not Available
+45845,11053,KL,79624074,3619.1,leasing
+45978,11141,QR,68096905,3744.7,loan payment
+46125,11231,CD,69176065,7440.5,loan payment
+46126,11231,AB,4824811,9783,household payment
+46127,11231,UV,15493494,229,Info. not Available
+46149,11244,KL,40766275,6490.5,loan payment
+46150,11244,EF,90770136,12154,household payment
+46258,11317,CD,66904526,5290.8,loan payment
+46259,11317,KL,72136521,3849,household payment
+46260,11317,YZ,43205881,2784,Info. not Available
+46273,11327,YZ,5815422,3693,household payment
+46274,11327,CD,61814498,1632,loan payment

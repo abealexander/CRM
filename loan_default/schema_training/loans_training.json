@@ -1,0 +1,14 @@
+{	"SampleFileName": "Loans.csv",
+	"NumberofColumns" : 9,
+	"ColName": {
+		"loan_id" : "integer",
+		"account_id" : "integer",
+		"date" : "date",
+		"amount" : "integer",
+		"duration" : "integer",
+		"payments" : "integer",
+		"status" : "string",
+		"grant_year" : "integer",
+		"status_desc" : "string"
+	}
+}

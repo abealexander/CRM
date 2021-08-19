@@ -1,0 +1,16 @@
+2021-08-20/01:13:11		 Accounts.csv: File Transformed successfully!!
+2021-08-20/01:13:11		 Cards.csv: File Transformed successfully!!
+2021-08-20/01:13:12		 Clients.csv: File Transformed successfully!!
+2021-08-20/01:13:12		 Disps.csv: File Transformed successfully!!
+2021-08-20/01:13:12		 Districts.csv: File Transformed successfully!!
+2021-08-20/01:13:12		 Loans.csv: File Transformed successfully!!
+2021-08-20/01:13:12		 Orders.csv: File Transformed successfully!!
+2021-08-20/01:13:14		 Transactions.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Accounts.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Cards.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Clients.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Disps.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Districts.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Loans.csv: File Transformed successfully!!
+2021-08-20/01:19:09		 Orders.csv: File Transformed successfully!!
+2021-08-20/01:19:11		 Transactions.csv: File Transformed successfully!!

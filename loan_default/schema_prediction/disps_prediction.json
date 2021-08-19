@@ -1,0 +1,9 @@
+{	"SampleFileName": "Disps.csv",
+	"NumberofColumns" : 4,
+	"ColName": {
+		"disp_id" : "integer",
+		"client_id": "integer",
+		"account_id": "integer",
+		"disposition_type": "string"
+	}
+}

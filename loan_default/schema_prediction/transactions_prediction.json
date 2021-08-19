@@ -1,0 +1,14 @@
+{	"SampleFileName": "Transactions.csv",
+	"NumberofColumns" : 9,
+	"ColName": {
+		"trans_id" : "integer",
+		"account_id" : "integer",
+		"transaction_date" : "date",
+		"transaction_type" : "string",
+		"mode_of_transaction" : "string",
+		"transaction_amount" : "float",
+		"current_balance" : "float",
+		"transaction_for" : "string",
+		"partner_bank" : "string"
+	}
+}

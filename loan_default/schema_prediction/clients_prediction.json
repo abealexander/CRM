@@ -1,0 +1,11 @@
+{	"SampleFileName": "Clients.csv",
+	"NumberofColumns" : 6,
+	"ColName": {
+		"client_id" : "integer",
+		"birth_number": "integer",
+		"district_id": "integer",
+		"birth_date": "date",
+		"gender": "string",
+		"age": "integer"
+	}
+}

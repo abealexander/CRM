@@ -1,0 +1,10 @@
+{	"SampleFileName": "Cards.csv",
+	"NumberofColumns" : 5,
+	"ColName": {
+		"card_id" : "integer",
+		"disp_id": "integer",
+		"type": "string",
+		"issued": "date",
+		"card_age": "integer"
+	}
+}

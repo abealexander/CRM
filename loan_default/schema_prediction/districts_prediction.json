@@ -1,0 +1,21 @@
+{	"SampleFileName": "Districts.csv",
+	"NumberofColumns" : 16,
+	"ColName": {
+		"district_id" : "integer",
+		"District_Name" : "string",
+		"Region" : "string",
+		"No_of_Inhabitants" : "integer",
+		"Municipalities_inhabitants<499" : "integer",
+		"Municipalities_inhabitants_500-1999" : "integer",
+		"Municipalities_inhabitants_2000-9999" : "integer",
+		"Municipalities_inhabitants>10000" : "integer",
+		"No_of_Cities" : "integer",
+		"Ratio_urban_inhabitants" : "float",
+		"Average_Salary" : "integer",
+		"Unemployment_rate_1995" : "float",
+		"Unemployment_rate_1996" : "float",
+		"Enterpreneurs_per_1000_inhabitants" : "integer",
+		"Crimes_commited_in_1995" : "integer",
+		"Crimes_commited_in_1996" : "integer"
+	}
+}

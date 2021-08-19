@@ -1,0 +1,11 @@
+{	"SampleFileName": "Orders.csv",
+	"NumberofColumns" : 6,
+	"ColName": {
+		"order_id" : "integer",
+		"account_id" : "integer",
+		"bank_to" : "string",
+		"account_to" : "integer",
+		"amount" : "float",
+		"transaction_for" : "string"
+	}
+}
